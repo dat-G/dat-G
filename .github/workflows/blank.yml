@@ -26,7 +26,7 @@ jobs:
 
           # Options
           user: dat-G
-          template: classic
+          template: large
           base: header, activity, community, repositories, metadata
           config_display: columns
           config_octicon: yes
@@ -60,3 +60,4 @@ jobs:
           plugin_lines_sections: base
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
+          plugin_repositories_featured: WiDayn/LabPanel
