@@ -26,9 +26,9 @@ jobs:
 
           # Options
           user: dat-G
-          template: large
+          template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
+          config_display: large
           config_octicon: yes
           config_timezone: Asia/Shanghai
           config_twemoji: yes
